@@ -15,4 +15,4 @@ An interactive Sales Analysis Dashboard built using Power BI to analyze sales pe
 
 ## Project File
 Download the Power BI file from the repository:
-[Sales Analysis Dashboard](./Sales-Analysis-PowerBI.pbix)
+[Sales Analysis Dashboard](./Dashboard.pbix)
